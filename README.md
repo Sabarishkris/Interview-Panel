@@ -7,7 +7,7 @@ The Interview Panel Management System is a Java-based application designed to fa
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
+- [ScreenShots](#screenshots)
 
 ## Introduction
 
