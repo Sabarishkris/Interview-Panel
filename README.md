@@ -46,5 +46,5 @@ The Interview Panel Management System aims to streamline the process of scheduli
    
 3. Compile the project using a Java IDE or build tool.
 
-##ScreenShots
+## ScreenShots
    
